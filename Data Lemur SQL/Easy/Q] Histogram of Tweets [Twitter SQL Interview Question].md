@@ -12,5 +12,5 @@
   GROUP BY user_id) AS tweet_1
   GROUP BY tweet_bucket;
 ```
-## Go on this link to try it out
+## Please click on the following link to try it out:
 https://datalemur.com/questions/sql-histogram-tweets
